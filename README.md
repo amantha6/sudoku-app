@@ -4,7 +4,7 @@ A fully interactive Sudoku game built with React that features multiple difficul
 
 ## Demo
 
-[Play the game on Vercel](https://your-vercel-url-here.vercel.app/)
+[Play the game on Vercel]([https://your-vercel-url-here.vercel.app/](https://sudoku-app-silk.vercel.app/))
 
 ## Features
 
