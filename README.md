@@ -274,7 +274,7 @@ sudoku-app/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/sudoku-game.git
+[git clone https://github.com/YOUR-USERNAME/sudoku-game.git](https://github.com/amantha6/sudoku-app.git)
 cd sudoku-game
 ```
 
